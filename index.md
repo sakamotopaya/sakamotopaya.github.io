@@ -1,9 +1,8 @@
 
 # elo_hub
 
-JUnk
+Junk
 Home Node Server - Runs on a PI
-
 
 
 |Debit|Credit|

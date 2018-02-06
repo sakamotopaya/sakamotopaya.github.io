@@ -12,6 +12,16 @@ Home Node Server - Runs on a PI
 |10||
 ||10|
 
+- This is a sample bullet
+    - test 1
+    - test 2
+    - test 3
+- another bullet
+    - dgdfgdg
+    - gnuiidd
+    - rgergerg
+    
+
 #### *Sample Device Descriptor*
 ```json
 {

@@ -10,9 +10,23 @@ I also began to think that maybe this was the thing I could give back. Something
 
 So there it is. The reasons this project exists. 
 
-I still have a lot documentation to produce but here is a start:
+Oh, why the name? Eric and Lisa Oliver was how it started but I liked that when you make it 'ELO it became friendly and reminded you of home.
 
-Here are 'sub-projects' on my radar
+--sakamoto
 
-Here is my research bin
-[Research](research/index.md)
+### ELO Home Documentation
+- Hub
+- Firmware
+- Mobile
+- Electron Client
+
+### Future Projects
+- LED Matrix Display
+- Combo PIR / Temp Sensor
+- Gate latch/sensor
+- Garage door interface
+
+
+### Research
+
+[General Research Bin](research/index.md)

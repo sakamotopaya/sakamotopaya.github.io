@@ -1,35 +1,17 @@
+
+# elo_home
 ---
----
 
-# elo_hub
+I guess I started this project to learn. I like to tinker and thought building a 'smart home' style system to link them all together sounded like a fun project. That was sometime ago :). And it has been fun. I've built several neat little gadgets and have many more planned.
 
-Home Node Server - Runs on a PI
+But along the way a few things happened. First, I realized that these companies are charging us way too much and second, I began to better understand what they were doing with our data. 
 
+I also began to think that maybe this was the thing I could give back. Something that others would find useful.
 
+So there it is. The reasons this project exists. 
 
-|Debit|Credit|
-|----------------:|-----------------:|
-|10||
-||10|
+I still have a lot documentation to produce but here is a start:
 
-- This is a sample bullet
-    - test 1
-    - test 2
-    - test 3
-- another bullet
-    - dgdfgdg
-    - gnuiidd
-    - rgergerg
-    
+Here are 'sub-projects' on my radar
 
-#### *Sample Device Descriptor*
-```json
-{
-    "address": "192.168.1.114",
-    "port": 8088,
-    "connectionType": "rest",
-    "deviceClass": "led",
-    "name": "kitchen",
-    "description": "leds above the cabinet"
-}
-```
+Here is my research bin

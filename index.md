@@ -20,6 +20,13 @@ Oh, why the name? Eric and Lisa Oliver was how it started but I liked that when 
 - Mobile
 - Electron Client
 
+### Past Projects
+- Led Whiteboard
+- Dog food level sensor
+- Higrow sensors
+- Startrek light
+- Side table 
+
 ### Future Projects
 - LED Matrix Display
 - Combo PIR / Temp Sensor

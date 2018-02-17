@@ -15,4 +15,4 @@ I still have a lot documentation to produce but here is a start:
 Here are 'sub-projects' on my radar
 
 Here is my research bin
-(Research)[./research/index.md]
+[Research](research/index.md)
